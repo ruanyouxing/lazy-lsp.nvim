@@ -30,4 +30,7 @@ return {
   rome = {
     cmd = { "rome", "lsp_proxy" },
   },
+  clangd = {
+    cmd = {"clangd"}
+  }
 }
